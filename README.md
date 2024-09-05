@@ -123,18 +123,3 @@ A collection of C++ projects developed for macOS, using both JUCE and Qt framewo
     ```
 
 3. Follow the instructions in the project-specific README for building and running the project on your local machine.
-
----
-
-## License
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
----
-
-## Contributing
-Feel free to fork this repository, submit pull requests, or open issues for any suggestions or bugs.
-
----
-
-## Contact
-If you have any questions, feel free to reach out via email at your-email@example.com or through GitHub Issues.
